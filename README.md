@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Wena-Maks/Wena-Maks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Hard Skills:
+Python
+Telegram
+SQLite
+Flask
 
-Here are some ideas to get you started:
+My project
+Image Classifier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⚡ Fact about me:
+  I speak Russian, Ukrainian, French, and English
